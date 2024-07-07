@@ -1,1 +1,1 @@
-https://estilay.github.io/rsschool-cv/cv
+https://estilay.github.io/rsschool-cv/
